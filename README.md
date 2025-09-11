@@ -12,5 +12,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
