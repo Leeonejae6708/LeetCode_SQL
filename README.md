@@ -28,4 +28,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1734-bank-account-summary-ii](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1734-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1837-daily-leads-and-partners) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1892-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
