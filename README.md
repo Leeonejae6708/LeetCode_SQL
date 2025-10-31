@@ -54,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-rearrange-products-table](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/2041-the-latest-login-in-2020) |
+| [2110-employees-with-missing-information](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
