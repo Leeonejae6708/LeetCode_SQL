@@ -60,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3530-odd-and-even-transactions](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/3530-odd-and-even-transactions) |
 <!---LeetCode Topics End-->
