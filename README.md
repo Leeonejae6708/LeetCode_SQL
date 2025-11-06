@@ -61,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-employees-with-missing-information](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3530-odd-and-even-transactions](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/3530-odd-and-even-transactions) |
+| [3816-dna-pattern-recognition](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/3816-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
