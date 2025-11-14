@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2127-employees-whose-manager-left-the-company](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3530-odd-and-even-transactions](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/3530-odd-and-even-transactions) |
+| [3782-find-valid-emails](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/3782-find-valid-emails) |
 | [3816-dna-pattern-recognition](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/3816-dna-pattern-recognition) |
 | [3910-find-books-with-no-available-copies](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/3910-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
