@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-sales-analysis-iii](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1174-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Leeonejae6708/LeetCode_SQL/tree/master/1327-last-person-to-fit-in-the-bus) |
